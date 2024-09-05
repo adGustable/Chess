@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
       "packagesPath": "C:\\Users\\Gus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessUI\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\Chess\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessLogic\\ChessLogic.csproj"
+            "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }
@@ -92,7 +92,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

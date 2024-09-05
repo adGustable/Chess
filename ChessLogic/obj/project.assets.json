@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessLogic\\ChessLogic.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
       "projectName": "ChessLogic",
-      "projectPath": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessLogic\\ChessLogic.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
       "packagesPath": "C:\\Users\\Gus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gus\\Desktop\\C#\\Chess\\ChessLogic\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
