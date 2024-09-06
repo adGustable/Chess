@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6hFeW0IFVt0pm4doFEnnYprDcAfN3wmhHqAH+Y8CFeNwir1aWErBSaQI+ZedBcxDX+yBYpfVVF8//hZSowkBgQ==",
+  "dgSpecHash": "VetL4C2D0WA=",
   "success": true,
   "projectFilePath": "D:\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gus\\.nuget\\packages\\microsoft.web.webview2\\1.0.2739.15\\microsoft.web.webview2.1.0.2739.15.nupkg.sha512"
+  ],
   "logs": []
 }
