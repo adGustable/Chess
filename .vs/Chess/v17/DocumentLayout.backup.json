@@ -38,8 +38,7 @@
               "RelativeToolTip": "ChessUI\\Images.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:40:45.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T04:40:45.481Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:48:49.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T03:48:49.417Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "ChessLogic\\GameState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T03:12:45.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T03:12:45.553Z"
             }
           ]
         }
