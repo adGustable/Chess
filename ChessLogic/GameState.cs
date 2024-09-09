@@ -17,7 +17,7 @@ namespace ChessLogic
             Board = board;
         }
 
-        public IEnumerable<Move> LegalMovesForePiece(Position pos)
+        public IEnumerable<Move> LegalMovesForPiece(Position pos)
         {
             if(Board.IsEmpty(pos) || Board[pos].Colour != CurrentPlayer)
             {
