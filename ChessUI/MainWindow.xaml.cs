@@ -137,7 +137,7 @@ namespace ChessUI
         private void ShowHighlights()
         {
             //Colour of highlight should check later
-            Color colour = Color.FromArgb(150, 238, 234, 222);
+            Color colour = Color.FromArgb(120, 238, 234, 222);
 
             foreach (Position to in moveCashe.Keys)
             {
