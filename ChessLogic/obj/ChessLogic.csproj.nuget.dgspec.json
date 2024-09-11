@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {}
+    "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
-        "packagesPath": "C:\\Users\\Gus\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
+        "projectPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "packagesPath": "C:\\Users\\faber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\faber\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

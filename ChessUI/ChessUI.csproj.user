@@ -7,20 +7,26 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="NameForm.xaml.cs">
+    <Compile Update="FormUI\NameForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FormUI\TestForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Update="ValidationForm.ts">
+    <None Update="FormUI\ValidationForm.ts">
       <SubType>Code</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="FormUI\TestForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="NameForm.xaml">
+    <Page Update="FormUI\NameForm.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

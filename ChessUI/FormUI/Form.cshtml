@@ -1,0 +1,110 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ChessUI
+{
+    class Form
+    {
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Player Names</title>
+        <style>
+            body {
+                background-color: #002B36;
+                font-family: Arial, sans-serif;
+                color: white;
+            }
+
+            .container {
+                width: 600px;
+                margin: 0 auto;
+                text-align: center;
+            }
+
+            h1 {
+                margin-top: 20px;
+                font-size: 24px;
+                font-weight: bold;
+            }
+
+            label {
+                display: block;
+                font-size: 18px;
+                margin-bottom: 10px;
+                text-align: left;
+            }
+
+            input[type="text"] {
+                width: 240px;
+                height: 40px;
+                padding: 5px;
+                font-size: 16px;
+                font-weight: bold;
+                border: 2px solid white;
+                background-color: #268BD2;
+                color: white;
+                margin-bottom: 20px;
+            }
+
+            input[type="text"].black {
+                background-color: #859900;
+            }
+
+            input[type="checkbox"] {
+                margin-bottom: 20px;
+            }
+
+            button {
+                background-color: #B58900;
+                color: white;
+                border: none;
+                width: 120px;
+                height: 40px;
+                font-size: 16px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+
+            .return-message {
+                display: none;
+                font-size: 18px;
+                margin-top: 20px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <!-- Title -->
+            <h1>Insert Player Names</h1>
+
+            <!-- White Player Name Input -->
+            <label for="WhitePlayerName">White Player:</label>
+            <input type="text" id="WhitePlayerName" name="WhitePlayerName" placeholder="Enter White Player Name" />
+
+            <!-- Black Player Name Input -->
+            <label for="BlackPlayerName">Black Player:</label>
+            <input type="text" id="BlackPlayerName" name="BlackPlayerName" placeholder="Enter Black Player Name" class="black" />
+
+            <!-- Checkbox for validation -->
+            <label>
+                <input type="checkbox" id="EnableValidation" name="EnableValidation" /> Enable Validation
+            </label>
+
+            <!-- Submit Button -->
+            <button type="button" onclick="submitForm()">Start Game</button>
+
+            <!-- Message to display after submission -->
+            <div id="ReturnMessage" class="return-message"></div>
+        </div>
+    </body>
+    </html>
+
+    }
+}
