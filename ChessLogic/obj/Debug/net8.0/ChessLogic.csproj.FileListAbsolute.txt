@@ -21,3 +21,15 @@ D:\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
 D:\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
 D:\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
 D:\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.sourcelink.json
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll

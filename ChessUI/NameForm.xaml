@@ -85,13 +85,13 @@
                 FontSize="16" 
                 Cursor="Hand"
                 Click="OnSubmit" />
-        <Label 
-            x:Name="ReturnMessage"
-            Content="" 
-            HorizontalAlignment="Center" 
-            VerticalAlignment="Top" 
-            Margin="0,394,0,0" 
-            FontSize="18" 
-            Foreground="White" Visibility="Hidden" />
+        <Label x:Name="ReturnMessage" 
+               Content="" 
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Bottom" 
+               Margin="0,10,0,10" 
+               FontSize="14" 
+               Foreground="Red" 
+               Visibility="Hidden" />
     </Grid>
 </Window>

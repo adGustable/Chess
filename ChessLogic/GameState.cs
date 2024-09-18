@@ -63,6 +63,10 @@ namespace ChessLogic
             }
         }
 
+        private bool IsCheckmate()
+        {
+            return !AllLegalMovesFor(CurrentPlayer).Any();
+        }
 
         public bool IsGameOver()
         {

@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Chess\\",
+  "WorkspaceRootPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|d:\\documents\\github\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\nameform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\nameform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\nameform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\nameform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\validationform.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\validationform.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|d:\\documents\\github\\chess\\chesslogic\\endreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\endreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chesslogic\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|d:\\documents\\github\\chess\\chesslogic\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chesslogic\\endreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10B2725-3AAD-4080-B7BD-ED08BBA36344}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\endreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ValidationForm.ts",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ValidationForm.ts",
+              "RelativeDocumentMoniker": "ChessUI\\ValidationForm.ts",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ValidationForm.ts",
+              "RelativeToolTip": "ChessUI\\ValidationForm.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-18T22:54:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\NameForm.xaml.cs",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml.cs",
+              "RelativeToolTip": "ChessUI\\NameForm.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA3wEwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:53:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameForm.xaml",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\NameForm.xaml",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml",
+              "RelativeToolTip": "ChessUI\\NameForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T22:53:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Result.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\Result.cs",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Result.cs",
               "RelativeDocumentMoniker": "ChessLogic\\Result.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\Result.cs",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Result.cs",
               "RelativeToolTip": "ChessLogic\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T09:26:07.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EndReason.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\EndReason.cs",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\EndReason.cs",
               "RelativeDocumentMoniker": "ChessLogic\\EndReason.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\EndReason.cs",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\EndReason.cs",
               "RelativeToolTip": "ChessLogic\\EndReason.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T09:25:10.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T09:25:10.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GameState.cs",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\GameState.cs",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\GameState.cs",
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
-              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\GameState.cs",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\GameState.cs",
               "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T09:24:45.122Z",
               "EditorCaption": ""
