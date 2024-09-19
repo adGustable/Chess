@@ -96,3 +96,5 @@ C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.g.cs
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.baml
