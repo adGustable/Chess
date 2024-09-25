@@ -98,3 +98,8 @@ C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.g.cs
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.baml
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.g.cs
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\App.baml
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.baml
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.baml
