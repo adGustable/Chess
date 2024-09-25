@@ -41,7 +41,7 @@ namespace ChessUI
         //Mess with this later to implement other names
         private static string GetWinnerText(Player winner, string WhitePlayerName, string BlackPlayerName)
         {
-            if (WhitePlayerName == null || BlackPlayerName == null)
+            if (WhitePlayerName == "" || BlackPlayerName == "")
             {
                 return winner switch
                 {

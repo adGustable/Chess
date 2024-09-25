@@ -186,7 +186,7 @@ namespace ChessUI
 
         private void ShowGameOver()
         {
-            GameOverMenu gameOverMenu = new GameOverMenu(gameState, whitePlayerName,blackPlayerName); //whitePlayerName and blackPlayerName are not the same value as the constuctor versions
+            GameOverMenu gameOverMenu = new GameOverMenu(gameState, whitePlayerName,blackPlayerName);
             MenuContainer.Content = gameOverMenu;
 
             gameOverMenu.OptionSelected += option =>
