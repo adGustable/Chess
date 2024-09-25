@@ -23,18 +23,6 @@ namespace ChessUI
     /// </summary>
     public partial class NameForm : Window
     {
-        
-        //Need To look into this more
-        public static Player PlayerNameWhite(Player PlayerWhiteName)
-        {
-
-            return PlayerWhiteName = Player.WhitePlayerName;
-        }
-        public static Player PlayerNameBlack(Player PlayerBlackName)
-        {
-            return PlayerBlackName = Player.BlackPlayerName;
-        }
-
         public NameForm()
         {
             InitializeComponent();
@@ -47,7 +35,6 @@ namespace ChessUI
             // If validation is enabled, call the validation functions
             if (isValidationEnabled)
             {
-                
                 bool whiteValid = CallWhiteValidation(WhitePlayerName.Text);
                 bool blackValid = CallBlackValidation(BlackPlayerName.Text);
                 bool isValid = ValidateForm(WhitePlayerName.Text, BlackPlayerName.Text);
@@ -56,17 +43,7 @@ namespace ChessUI
                 if (isValid && whiteValid && blackValid)
                 {
                     ReturnMessage.Visibility = Visibility.Hidden; // Hide the error label
-
-                    //Use to display on end screen
-                    string BlackPN = BlackPlayerName.Text;
-                    string WhitePN = WhitePlayerName.Text;
-
-                    //PlayerNameWhite(WhitePN);
-                    //PlayerNameBlack(BlackPN);
-
                     NavigateToNextPage();
-
-    
                 }
                 
             }
@@ -131,7 +108,11 @@ namespace ChessUI
         
         private void NavigateToNextPage()
         {
-            MainWindow mainWindow = new MainWindow();
+            string whitePlayerName = WhitePlayerName.Text;
+            string blackPlayerName = BlackPlayerName.Text;
+
+            // Pass the player names to MainWindow
+            MainWindow mainWindow = new MainWindow(whitePlayerName, blackPlayerName);
             mainWindow.Show();
             this.Close();
         }

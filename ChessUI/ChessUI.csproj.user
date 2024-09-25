@@ -7,9 +7,6 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="EndScreen.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="GameOverMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -23,9 +20,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="EndScreen.xaml">
-      <SubType>Designer</SubType>
-    </Page>
     <Page Update="GameOverMenu.xaml">
       <SubType>Designer</SubType>
     </Page>

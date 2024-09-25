@@ -19,6 +19,8 @@ namespace ChessUI
     /// </summary>
     public partial class MainWindow : Window
     {
+        public string whitePlayerName { get; set; }
+        public string blackPlayerName { get; set; }
 
         private readonly Image[,] pieceImages = new Image[8, 8];
         private readonly Rectangle[,] highlights = new Rectangle[8,8];
@@ -27,8 +29,10 @@ namespace ChessUI
         private GameState gameState;
         private Position selectedPos = null;
 
-        public MainWindow()
+        public MainWindow(string whitePlayerName, string blackPlayerName)//Constructor versions have values
         {
+            this.whitePlayerName = whitePlayerName;
+            this.blackPlayerName = blackPlayerName;
             InitializeComponent();
             InitializeBoard();
 
@@ -182,7 +186,7 @@ namespace ChessUI
 
         private void ShowGameOver()
         {
-            GameOverMenu gameOverMenu = new GameOverMenu(gameState);
+            GameOverMenu gameOverMenu = new GameOverMenu(gameState, whitePlayerName,blackPlayerName); //whitePlayerName and blackPlayerName are not the same value as the constuctor versions
             MenuContainer.Content = gameOverMenu;
 
             gameOverMenu.OptionSelected += option =>

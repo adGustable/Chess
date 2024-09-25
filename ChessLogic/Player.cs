@@ -4,9 +4,7 @@
     {
         None,
         White,
-        Black,
-        BlackPlayerName,
-        WhitePlayerName
+        Black
     }
 
     public static class PlayerExtensions
@@ -17,8 +15,6 @@
             {
                 Player.White => Player.Black,
                 Player.Black => Player.White,
-                Player.WhitePlayerName => Player.WhitePlayerName,
-                Player.BlackPlayerName => Player.BlackPlayerName,
                 _ => Player.None,
             };
         }

@@ -23,37 +23,51 @@ namespace ChessUI
     {
 
         public event Action<Option> OptionSelected;
-        public GameOverMenu(GameState gameState)
+        public string WhitePlayerName { get; set; }
+        public string BlackPlayerName { get; set; }
+        public GameOverMenu(GameState gameState,string whitePlayerName, string blackPlayerName)
         {
+            this.WhitePlayerName = whitePlayerName;
+            this.BlackPlayerName = blackPlayerName;
             InitializeComponent();
 
             Result result = gameState.Result;
-            WinnerText.Text = GetWinnerText(result.Winner);
+            WinnerText.Text = GetWinnerText(result.Winner, WhitePlayerName, BlackPlayerName);
             ReasonText.Text = GetReasonText(result.Reason, gameState.CurrentPlayer);
+            
 
         }
 
-        private static string GetWinnerText(Player winner)
+        //Mess with this later to implement other names
+        private static string GetWinnerText(Player winner, string WhitePlayerName, string BlackPlayerName)
         {
-            return winner switch
+            if (WhitePlayerName == null || BlackPlayerName == null)
             {
-                Player.White => "White Wins!",
-                Player.Black => "Black Wins!",
-                _ => "It's a Draw"
-            };
+                return winner switch
+                {
+                    Player.White => "White Wins!",
+                    Player.Black => "Black Wins!",
+                    _ => "It's a Draw"
+                };
+            }
+            else
+            {
+                return winner switch
+                {
+                    Player.White => WhitePlayerName+ " Wins!",
+                    Player.Black => BlackPlayerName+ " Wins!",
+                    _ => "It's a Draw"
+                };
+            }
 
         }
        
-        //Mess with this later to implement other names
         private static string PlayerString (Player player)
         {
-            
             return player switch
             {
                 Player.White => "White",
                 Player.Black => "Black",
-                //Player.WhitePlayerName => "",
-                //Player.BlackPlayerName => "",
                 _ => ""
             };
         }
