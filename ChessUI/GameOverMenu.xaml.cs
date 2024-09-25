@@ -78,6 +78,9 @@ namespace ChessUI
             {
                 EndReason.Stalemate => $"Stalemate - {PlayerString(currentPlayer)} Can't Move",
                 EndReason.Checkmate => $"Checkmate - {PlayerString(currentPlayer)} Can't Move",
+                EndReason.FiftyMoveRule => $"Fifty Move Rule Has Been Reached - It's A Draw",
+                EndReason.InsufficientMaterial => $"Not Enough Material To Win - It's A Draw",
+                EndReason.ThreeFoldRepetition => $"Three Fold Repetition - It's A Draw",
                 _ => ""
             };
         }
