@@ -13,6 +13,12 @@
     <Compile Update="NameForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="PauseMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PromotionMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Update="ValidationForm.ts">
@@ -27,6 +33,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="NameForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PauseMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PromotionMenu.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -96,11 +96,13 @@ C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
-D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.g.cs
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\App.baml
-D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\EndScreen.baml
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.baml
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\App.baml
 C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.baml
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.g.cs
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.baml
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
+D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml

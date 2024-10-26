@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {}
+    "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
+    "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
-        "packagesPath": "C:\\Users\\faber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
+        "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+        "packagesPath": "C:\\Users\\Gus\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\faber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

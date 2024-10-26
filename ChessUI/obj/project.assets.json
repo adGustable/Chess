@@ -141,19 +141,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\faber\\.nuget\\packages\\": {}
+    "C:\\Users\\Gus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
-      "packagesPath": "C:\\Users\\faber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\obj\\",
+      "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessUI\\ChessUI.csproj",
+      "packagesPath": "C:\\Users\\Gus\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\GitHub\\Chess\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\faber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -161,15 +161,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj"
+            "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "D:\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }

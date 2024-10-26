@@ -33,6 +33,7 @@ namespace ChessLogic
 
         public void MakeMove(Move move)
         {
+            Board.SetPawnSkipPosition(CurrentPlayer, null); //forgets the next move for other player. (stops En Passent after multipule moves)
             move.Execute(Board);
             CurrentPlayer = CurrentPlayer.Opponent();
             CheckForGameOver();

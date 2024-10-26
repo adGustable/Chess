@@ -1,12 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|d:\\documents\\github\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|d:\\documents\\github\\chess\\chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T23:56:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseMenu.xaml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml",
+              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
+              "RelativeToolTip": "ChessUI\\PauseMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T23:46:58.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
