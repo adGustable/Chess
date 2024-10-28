@@ -106,3 +106,7 @@ D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.g.cs
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.baml
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
 D:\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.g.cs
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
+C:\Users\faber\OneDrive\Documents\GitHub\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.baml

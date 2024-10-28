@@ -1,13 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Chess\\",
+  "WorkspaceRootPath": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|d:\\documents\\github\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\nameform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\nameform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\nameform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\nameform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\validationform.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\validationform.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|d:\\documents\\github\\chess\\chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|c:\\users\\faber\\onedrive\\documents\\github\\chess\\chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0DDE34B-8776-4B41-8349-3A971BB05C12}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -23,26 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NameForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\NameForm.xaml.cs",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml.cs",
+              "RelativeToolTip": "ChessUI\\NameForm.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:22:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationForm.ts",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ValidationForm.ts",
+              "RelativeDocumentMoniker": "ChessUI\\ValidationForm.ts",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\ValidationForm.ts",
+              "RelativeToolTip": "ChessUI\\ValidationForm.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T23:22:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\App.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\App.xaml",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\App.xaml",
+              "RelativeToolTip": "ChessUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T23:18:21.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameForm.xaml",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\NameForm.xaml",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\NameForm.xaml",
+              "RelativeToolTip": "ChessUI\\NameForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T23:13:59.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
-              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml*",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-25T23:56:37.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PauseMenu.xaml",
-              "DocumentMoniker": "D:\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
               "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml",
-              "ToolTip": "D:\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
+              "ToolTip": "C:\\Users\\faber\\OneDrive\\Documents\\GitHub\\Chess\\ChessUI\\PauseMenu.xaml",
               "RelativeToolTip": "ChessUI\\PauseMenu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T23:46:58.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T23:46:58.29Z"
             }
           ]
         }
