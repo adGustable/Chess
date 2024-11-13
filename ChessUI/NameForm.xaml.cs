@@ -66,6 +66,8 @@ namespace ChessUI
             {
                 ReturnMessage.Content = "Players cannot have the same name."; // Error message for duplicate names
                 ReturnMessage.Visibility = Visibility.Visible;
+                WhitePlayerName.BorderBrush = new SolidColorBrush(Colors.Red);
+                BlackPlayerName.BorderBrush = new SolidColorBrush(Colors.Red);
                 return false;
             }
             return true;

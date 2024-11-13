@@ -9,95 +9,50 @@
         Background="#002B36"
         WindowStartupLocation="CenterScreen">
     <Border Style="{StaticResource BorderStyle}">
-    <Grid>
-        <!-- Title -->
-        <TextBlock Text="Insert Player Names" 
-               HorizontalAlignment="Center" 
-               VerticalAlignment="Top" 
-               Style="{StaticResource TextStyle}"
-               FontSize="24"
-               Margin="0,20,0,0"
-               />
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" /> 
+                <RowDefinition Height="Auto" /> 
+                <RowDefinition Height="Auto" /> 
+            </Grid.RowDefinitions>
 
-        <!-- White Player Name Input -->
-        <TextBlock Text="White Player:" 
-               HorizontalAlignment="Left" 
-               VerticalAlignment="Center" 
-               Margin="60,0,0,120" 
-               Style="{StaticResource TextStyle}"
-               FontSize="18" 
-               FontWeight="Bold"
-               />
-        <TextBox x:Name="WhitePlayerName" 
-                 Width="240" 
-                 Height="40" 
-                 HorizontalAlignment="Right" 
-                 HorizontalContentAlignment="Center"
-                 VerticalContentAlignment="Center"
-                 Margin="0,0,60,120" 
-                 Background="#970b42" 
-                 Foreground="White" 
-                 FontSize="16" 
-                 BorderThickness="2" 
-                 BorderBrush="White" 
-                 Padding="5" 
-                 FontWeight="Bold" />
-
-        <!-- Black Player Name Input -->
-        <TextBlock Text="Black Player:" 
-               HorizontalAlignment="Left" 
-               VerticalAlignment="Center" 
-               Margin="60,120,0,0" 
-               Style="{StaticResource TextStyle}"
-               FontSize="18" 
-               FontWeight="Bold" />
-        <TextBox x:Name="BlackPlayerName" 
-                 Width="240" 
-                 Height="40" 
-                 HorizontalAlignment="Right" 
-                 HorizontalContentAlignment="Center"
-                 VerticalContentAlignment="Center"
-                 Margin="0,120,60,0" 
-                 Background="#970b42" 
-                 Foreground="White" 
-                 FontSize="16" 
-                 BorderThickness="2" 
-                 BorderBrush="White" 
-                 Padding="5" 
-                 FontWeight="Bold" />
-
-        <!-- Checkbox for validation -->
-        <CheckBox x:Name="EnableValidation" 
-                  Content="Enable Validation" 
-                  HorizontalAlignment="Center" 
-                  VerticalAlignment="Bottom" 
-                  Margin="0,0,0,100" 
-                  Foreground="White"
-                  FontSize="14"/>
-
-        <!-- Submit Button -->
-        <Button Content="Start Game" 
+           
+            <TextBlock 
+                Text="Insert Player Names"
+                Grid.Row="0" 
                 HorizontalAlignment="Center" 
-                VerticalAlignment="Bottom" 
-                Width="120" 
-                Height="40" 
-                Margin="0,0,0,40" 
-                Foreground="White"
-                Style="{StaticResource ButtonStyle}" 
-                 
-                FontWeight="Bold" 
-                BorderThickness="0" 
-                FontSize="16" 
-                Cursor="Hand"
-                Click="OnSubmit" />
-        <Label x:Name="ReturnMessage" 
-               Content="" 
-               HorizontalAlignment="Center" 
-               VerticalAlignment="Bottom" 
-               Margin="0,10,0,10" 
-               FontSize="14" 
-               Foreground="AntiqueWhite" 
-               Visibility="Hidden" />
-    </Grid>
+                Style="{StaticResource TextStyle}" 
+                FontSize="36" 
+                Margin="0,20,0,0" />
+
+           
+            <StackPanel Grid.Row="1" VerticalAlignment="Center">
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                    <TextBlock Text="White Player:" Style="{StaticResource TextStyle}" FontSize="20" FontWeight="Bold" Margin="0,0,22,0"/>
+                    <TextBox x:Name="WhitePlayerName" Width="240" Height="40" HorizontalContentAlignment="Center" 
+                             Background="#970b42" Foreground="White" FontSize="16" BorderThickness="2" BorderBrush="#970b42" Padding="5" FontWeight="Bold" />
+                </StackPanel>
+
+               
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                    <TextBlock Text="Black Player:" Style="{StaticResource TextStyle}" FontSize="20" FontWeight="Bold" Margin="0,0,30,0"/>
+                    <TextBox x:Name="BlackPlayerName" Width="240" Height="40" HorizontalContentAlignment="Center" 
+                             Background="#970b42" Foreground="White" FontSize="16" BorderThickness="2" BorderBrush="#970b42" Padding="5" FontWeight="Bold" />
+                </StackPanel>
+            </StackPanel>
+
+            
+            <StackPanel Grid.Row="2" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <CheckBox x:Name="EnableValidation" Content="Enable Validation" Foreground="White" FontSize="14" Margin="0,0,0,10"/>
+                <Button Content="Start Game" Width="120" Height="40" Foreground="White" Style="{StaticResource ButtonStyle}" 
+                        FontWeight="Bold" BorderThickness="0" FontSize="16" Cursor="Hand" Click="OnSubmit" />
+                
+            </StackPanel>
+            <StackPanel Grid.Row="3" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <Label x:Name="ReturnMessage" Content="" FontSize="14" Foreground="AntiqueWhite" Visibility="Hidden" />
+            </StackPanel>
+        </Grid>
     </Border>
 </Window>
