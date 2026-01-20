@@ -1,58 +1,88 @@
-Desktop Chess Game
-
-Description
+\# Desktop Chess Game
 
 
 
-&nbsp;	This is a simple desktop chess game developed in C# using WPF (XAML) for educational purposes.
+A simple \*\*desktop chess game\*\* developed in \*\*C#\*\* for \*\*educational purposes\*\*.  
 
-&nbsp;	The project was created as a solo assignment to practice object-oriented programming and basic game development.
-
-
-
-&nbsp;	The game supports two players playing against each other in person on the same computer.
+This project was created as a \*\*solo assignment\*\* to practice \*\*object-oriented programming\*\* and core \*\*game logic\*\* concepts.
 
 
 
-Features
+The game supports \*\*two players\*\* playing locally on the \*\*same computer\*\*.
 
 
 
-&nbsp;	Two-player local chess
-
-&nbsp;	Standard chess rules
-
-&nbsp;	WPF graphical user interface
-
-&nbsp;	Windows-only application
+---
 
 
 
-Requirements
+\## Features
 
 
 
-&nbsp;	Windows operating system
+\- Two-player local chess gameplay  
 
-&nbsp;	.NET Framework / .NET Runtime
+\- Standard chess rules implemented  
 
+\- Graphical desktop user interface  
 
-
-How to Run
-
-
-
-&nbsp;	Download or clone the project.
-
-&nbsp;	Open the solution in Visual Studio.
-
-&nbsp;	Build and run the project.
+\- Windows-only application  
 
 
 
-Author
+---
 
 
 
-&nbsp;	Created as a solo educational project.
+\## Requirements
+
+
+
+\- Windows operating system  
+
+\- .NET Framework / .NET Runtime (depending on your setup)  
+
+
+
+---
+
+
+
+\## How to Run
+
+
+
+1\. Download or clone this repository  
+
+2\. Open the solution in \*\*Visual Studio\*\*  
+
+3\. Build the project  
+
+4\. Run the application  
+
+
+
+---
+
+
+
+\## Author
+
+
+
+Created as a \*\*solo educational project\*\* to practice C# and object-oriented design.
+
+
+
+---
+
+
+
+\## License
+
+
+
+This project was created for \*\*educational purposes\*\*.
+
+
 
