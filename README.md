@@ -1,14 +1,14 @@
-\# Desktop Chess Game
+# Desktop Chess Game
 
 
 
-A simple \*\*desktop chess game\*\* developed in \*\*C#\*\* for \*\*educational purposes\*\*.  
+A simple desktop chess game developed in C# for educational purposes.  
 
-This project was created as a \*\*solo assignment\*\* to practice \*\*object-oriented programming\*\* and core \*\*game logic\*\* concepts.
+This project was created as a solo assignment to practice object-oriented programming and core game logic concepts.
 
 
 
-The game supports \*\*two players\*\* playing locally on the \*\*same computer\*\*.
+The game supports two players playing locally on the same computer.
 
 
 
@@ -16,7 +16,7 @@ The game supports \*\*two players\*\* playing locally on the \*\*same computer\*
 
 
 
-\## Features
+## Features
 
 
 
@@ -34,7 +34,7 @@ The game supports \*\*two players\*\* playing locally on the \*\*same computer\*
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -48,7 +48,7 @@ The game supports \*\*two players\*\* playing locally on the \*\*same computer\*
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -66,11 +66,11 @@ The game supports \*\*two players\*\* playing locally on the \*\*same computer\*
 
 
 
-\## Author
+## Author
 
 
 
-Created as a \*\*solo educational project\*\* to practice C# and object-oriented design.
+Created as a solo educational project to practice C# and object-oriented design.
 
 
 
@@ -78,11 +78,11 @@ Created as a \*\*solo educational project\*\* to practice C# and object-oriented
 
 
 
-\## License
+## License
 
 
 
-This project was created for \*\*educational purposes\*\*.
+This project was created for educational purposes.
 
 
 
